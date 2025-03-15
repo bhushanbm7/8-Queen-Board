@@ -1,5 +1,14 @@
 # 8-Queen-Board
-
+problem statement:
+8-Queen matrix is stored having first queen placed; use backtracking to 
+ place remaining queens to generate the final 8-queen matrix. 
+ 
+ conditions:
+ 
+  1.Not be in same row.
+  2.Not be in same column.
+  3.Not be in same diagonal.
+ 
 
 Try:
 
