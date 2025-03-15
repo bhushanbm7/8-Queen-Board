@@ -6,7 +6,9 @@ problem statement:
  conditions:
  
   1.Not be in same row.
+  
   2.Not be in same column.
+  
   3.Not be in same diagonal.
  
 
